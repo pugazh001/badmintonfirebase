@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579824008621",
+    "project_id": "badminton-bbce2",
+    "storage_bucket": "badminton-bbce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579824008621:android:d9f9c27187b5f74d8db524",
+        "android_client_info": {
+          "package_name": "com.example.badfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU15UT-xxnD1fB2i23iv3QtaaJGrZcLLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
